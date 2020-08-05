@@ -1,0 +1,115 @@
+/* structure */
+* {
+    padding:0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+  }
+  header{
+      text-align:center;
+      color: rebeccapurple;
+      
+  }
+  h3 {
+      background-color: antiquewhite;
+      font-family:fantasy;
+      font-weight: bold;
+      color: purple;
+  }
+  h1,.logo, {
+      background-color: white;
+      font-family: fantasy;
+      color: white;
+      font-size:30px solid;
+      margin: 0;
+      border: 1px solid white;
+  }
+  p{
+      text-align: center;
+      color: purple;
+      text-decoration: none;
+      padding: 5px;
+      margin: 20px;
+      border: none;
+      font-family: 'Arial';
+      line-height: 1.4em;
+  }
+  body{
+      background-color: white;
+      margin: 0;
+  }
+  footer{
+      background-color: white;
+      text-align: center;
+  }
+  .wrapper{
+      width: 700px;
+      margin: auto;
+  }
+  main div{
+      background-color: antiquewhite;
+      border: 1px solid;
+      
+  }
+  ol{
+      list-style: none;
+  }
+  ul{
+      list-style: none;
+      text-align: center;
+  }
+  
+  /* logo */
+  .logo{
+      color: antiquewhite;
+      background-color: purple;
+      margin: 0;
+      font-family: fantasy;
+      border: 0;
+      
+  }
+  /* Navigation */
+  
+  div nav ul{
+      background-color: purple;
+      margin: 0;
+      
+      
+  }
+  #nav1, #nav2, #nav3{
+      color: antiquewhite;
+      
+  }
+  
+  /* image */
+  img{
+      border-radius: 5%;
+      width: 250px;
+      height: 325px;
+  }
+  
+  /* bullet points */
+  ol li{
+      text-align: center;
+      color: purple;
+      text-decoration: none;
+  }
+  /* headings */
+  .headings{
+      font-size: 15px;
+      background-color: purple;
+      color: antiquewhite;
+      border: 0;
+  }
+  /* Anchor Tags */
+  a {
+      color:silver;
+  }
+  a:link, a:active, a:visited {text-decoration: none; color:silver}
+  a:hover{text-decoration: underline; color: purple;}
+  
+  div article ul li a{
+      display: inline-block;
+      margin:none;
+  
+  }

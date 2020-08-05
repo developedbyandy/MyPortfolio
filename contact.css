@@ -1,0 +1,93 @@
+
+
+  
+
+  
+
+form textarea {
+    height: 4.75rem;
+    width: 85%;
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 20px;
+    display: block;
+    margin: 20px 50px 20px 50px;
+  }
+
+  
+
+
+ /* Navigation */
+  
+div nav {
+    background-color: purple;
+    margin: 0;
+    display: flex;
+    text-align: center;
+
+    
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+}
+#nav1, #nav2, #nav3{
+    color: antiquewhite;
+    display: inline;
+    
+}
+
+div nav ul a{
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+header{
+    text-align: center;
+    color: purple;
+    justify-content: center;
+    
+    
+}
+
+header div {
+      display: flex;
+      background-color: purple;
+      
+      
+  }
+
+  nav {
+      display: inline-block;
+      text-align: center;
+  }
+
+
+  section form {
+    text-align:center;
+    color: antiquewhite;
+    color: rebeccapurple;
+    margin: 0px;
+    display: block;
+    
+  }
+
+  header div h1 {
+      font-family: fantasy;
+      padding-left: 300px;
+      color: antiquewhite;
+  }
+
+  body {
+      background-color: white;
+      margin: 0px;
+      margin: 50px;
+  }
+
+  main {
+      background-color: antiquewhite;
+      
+  }
